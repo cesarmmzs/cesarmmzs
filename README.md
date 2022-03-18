@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cesarmmzs
 - 👀 I’m interested in studying new things, games and pop culture!
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on many things in the future, but I'm not sure yet!
+- 💞️ I’m want to collaborate on many things in the future, but I'm not sure yet!
 - 📫 How to reach me - just e-mail me: cesarmartinsrj15@live.com
 
 <!---
