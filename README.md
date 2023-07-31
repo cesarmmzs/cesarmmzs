@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cesarmmzs (Cesar Martins de Menezes). I'm 24, Brazilian.
+- 👋 Hi, I’m @cesarmmzs (Cesar Martins de Menezes). I'm 25, Brazilian.
 - 👀 I’m interested in studying new things, games and pop culture!
 - 🌱 I’m currently learning python.
 - 💞️ I’m want to collaborate on many things in the future, but I'm not sure yet!
