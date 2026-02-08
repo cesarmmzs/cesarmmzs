@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @cesarmmzs (Cesar Martins de Menezes). I'm 25, Brazilian.
+- 👋 Hi, I’m @cesarmmzs (Cesar Martins de Menezes). I'm 28, Brazilian.
 - 👀 I’m interested in studying new things, games and pop culture!
-- 🌱 I’m currently learning python.
-- 💞️ I’m want to collaborate on many things in the future, but I'm not sure yet!
-- 📫 How to reach me - just e-mail me: cesarmartinsrj15@live.com
+- 🌱 I’m currently learning python with data science features!
+- 📫 How to reach me - just email me: cesarmartinsrj15@live.com
 
 <!---
 cesarmmzs/cesarmmzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
